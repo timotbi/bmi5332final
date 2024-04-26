@@ -1,0 +1,14 @@
+CellHashing	Singlet.bff_cluster	3896
+CellHashing	Doublet.bff_cluster	72
+CellHashing	Negative.bff_cluster	33
+CellHashing	NotCalled.bff_cluster	0
+CellHashing	TotalSinglet	3896
+CellHashing	TotalDoublet	72
+CellHashing	TotalNegative	33
+CellHashing	TotalDiscordant	0
+CellHashing	TotalLowCounts	0
+CellHashing	FractionCalled	0.991752061984504
+CellHashing	FractionSinglet	0.973756560859785
+CellHashing	FractionDoublet	0.0179955011247188
+CellHashing	FractionNegative	0.00824793801549613
+CellHashing	FractionDiscordant	0
